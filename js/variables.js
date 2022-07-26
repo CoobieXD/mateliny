@@ -9,7 +9,7 @@ var rtl = false;                                //Set to true if your website is
 var onepage_nav = true;                         //If true, each menu item will highlight when scrolling to each respective section.
 
 //MOBILE MENU TITLE
-var mobile_menu_title = "Menu";                 //The title of the mobile menu.
+var mobile_menu_title = "Меню";                 //The title of the mobile menu.
 
 //HERO FULLSCREEN VARIABLE
 var hero_full_screen = true;                    //If true, the hero section will fit to screen size. If false, hero height will be the height of its content.
