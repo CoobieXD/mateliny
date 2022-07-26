@@ -1913,7 +1913,7 @@ p.center {
 	text-align: center;
 	overflow: hidden;
 	padding: 75px 0;
-	z-index: 0
+	z-index: -1
 }
 
 #hero::before {
@@ -1924,7 +1924,7 @@ p.center {
 	left: 0;
 	top: 0;
 	background-color: #3d5963;
-	z-index: -1;
+	z-index: 0;
 	-khtml-opacity: 0.8;
 	-moz-opacity: 0.8;
 	opacity: .8
