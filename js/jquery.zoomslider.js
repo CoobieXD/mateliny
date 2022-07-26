@@ -90,7 +90,7 @@
 				case 'fixed':
 					break;
 				default:
-					this.$el.css('position', 'relative');
+					this.$el.css('position', 'absolute');
 					break;
 			}
 
